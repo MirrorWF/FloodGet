@@ -1,4 +1,4 @@
-# *FloodGet*
+# FloodGet
 Flood de solicitações HTTP (Script Simples)
 
 Script simples que envia solicitações TCP
