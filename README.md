@@ -1,5 +1,5 @@
 # FloodGet
-Flood de solicitações HTTP GET
+**Flood de solicitações HTTP GET**
 
 Script simples que envia solicitações TCP
 infinitamente a um servidor alvo.
