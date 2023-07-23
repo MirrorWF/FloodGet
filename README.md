@@ -1,7 +1,7 @@
 # FloodGet
 **Flood de solicitações HTTP GET**
 
-Script simples que envia solicitações TCP
+Script simples que envia solicitações HTTP GET
 infinitamente a um servidor alvo.
 Ao ser iniciado você deve fornecer o IP do servidor
 alvo e a porta que sera utilizada.
