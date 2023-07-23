@@ -1,5 +1,5 @@
 # FloodGet
-Flood de solicitações HTTP (Script Simples)
+Flood de solicitações HTTP GET
 
 Script simples que envia solicitações TCP
 infinitamente a um servidor alvo.
@@ -17,7 +17,7 @@ Embora não seja considerado uma ataque DoS, os sockets enviados no
 são fechados corretamente, oque pode causar uma sobrecarga os recursos do
 site e causar indisponibilidade.
 
-Como já falei, é um script simples e eu ainda sou um estudante, então 
+É um script simples e eu ainda sou um estudante, então 
 caso tenha algo errado no meu código me avisem!
 
 # Linux / Termux
