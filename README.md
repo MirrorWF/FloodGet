@@ -14,7 +14,7 @@ Em seguida, o programa criara um socket e enviara para
 o servidor alvo em um laço de repetição infinito (While)
 
 Embora não seja considerado uma ataque DoS, os sockets enviados não
-são fechados corretamente, oque pode causar uma sobrecarga os recursos do
+são fechados corretamente, oque pode sobrecarregar os recursos do
 site e causar indisponibilidade.
 
 É um script simples e eu ainda sou um estudante, então 
