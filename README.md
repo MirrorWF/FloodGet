@@ -8,7 +8,7 @@ alvo e a porta que sera utilizada.
 
 **(Importante!)**
 
-**Caso você escolha uma porta que esteja fechada, o programa ficará "parado" após inserir os dados (IP, Porta). Então certifique-se de que a porta selecionada esteja aberta.**
+**Caso você escolha uma porta que esteja fechada, o programa ficará "parado" ou dará um erro de conexão recusada após inserir os dados (IP, Porta). Então certifique-se de que a porta selecionada esteja aberta.**
 
 Em seguida, o programa criara um socket e enviara para 
 o servidor alvo em um laço de repetição infinito (While)
